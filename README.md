@@ -13,8 +13,8 @@ A simple Spotify Clone built using HTML and CSS that recreates the layout and de
 
 ## 🛠 Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 
 ## 👩‍💻 Developer
 
